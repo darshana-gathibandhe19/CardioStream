@@ -1,0 +1,102 @@
+[
+    {
+        "event_id": "1766848524615",
+        "device_id": "D-040",
+        "patient_id": "PT-1078",
+        "timestamp": "2025-12-27 20:45:24",
+        "heart_rate": 66,
+        "oxygen_level": 99,
+        "status": "Normal",
+        "battery_level": 30
+    },
+    {
+        "event_id": "1766848525617",
+        "device_id": "D-020",
+        "patient_id": "PT-1010",
+        "timestamp": "2025-12-27 20:45:25",
+        "heart_rate": 96,
+        "oxygen_level": 98,
+        "status": "Normal",
+        "battery_level": 36
+    },
+    {
+        "event_id": "1766848526618",
+        "device_id": "D-039",
+        "patient_id": "PT-1080",
+        "timestamp": "2025-12-27 20:45:26",
+        "heart_rate": 63,
+        "oxygen_level": 96,
+        "status": "Normal",
+        "battery_level": 84
+    },
+    {
+        "event_id": "1766848527620",
+        "device_id": "D-068",
+        "patient_id": "PT-1003",
+        "timestamp": "2025-12-27 20:45:27",
+        "heart_rate": 62,
+        "oxygen_level": 97,
+        "status": "Normal",
+        "battery_level": 49
+    },
+    {
+        "event_id": "1766848528622",
+        "device_id": "D-032",
+        "patient_id": "PT-1043",
+        "timestamp": "2025-12-27 20:45:28",
+        "heart_rate": 94,
+        "oxygen_level": 97,
+        "status": "Normal",
+        "battery_level": 94
+    },
+    {
+        "event_id": "1766848529623",
+        "device_id": "D-072",
+        "patient_id": "PT-1065",
+        "timestamp": "2025-12-27 20:45:29",
+        "heart_rate": 91,
+        "oxygen_level": 99,
+        "status": "Normal",
+        "battery_level": 55
+    },
+    {
+        "event_id": "1766848530625",
+        "device_id": "D-031",
+        "patient_id": "PT-1029",
+        "timestamp": "2025-12-27 20:45:30",
+        "heart_rate": 83,
+        "oxygen_level": 96,
+        "status": "Normal",
+        "battery_level": 47
+    },
+    {
+        "event_id": "1766848531628",
+        "device_id": "D-076",
+        "patient_id": "PT-1014",
+        "timestamp": "2025-12-27 20:45:31",
+        "heart_rate": 86,
+        "oxygen_level": 99,
+        "status": "Normal",
+        "battery_level": 49
+    },
+    {
+        "event_id": "1766848532631",
+        "device_id": "D-008",
+        "patient_id": "PT-1023",
+        "timestamp": "2025-12-27 20:45:32",
+        "heart_rate": 93,
+        "oxygen_level": 97,
+        "status": "Normal",
+        "battery_level": 26
+    },
+    {
+        "event_id": "1766848533632",
+        "device_id": "D-029",
+        "patient_id": "PT-1053",
+        "timestamp": "2025-12-27 20:45:33",
+        "heart_rate": 63,
+        "oxygen_level": 98,
+        "status": "Normal",
+        "battery_level": 24
+    }
+]
