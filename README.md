@@ -31,8 +31,8 @@ CardioStream/
 ├── 📊 Medtronic_IOStream_Visual.pbix # Interactive Power BI Dashboard
 ├── 📄 .gitignore                  # Git configuration
 └── 📄 README.md                   # Project documentation
-
-🚀 Key Features
+```
+## 🚀 Key Features
 IoT Device Simulator (device_simulator.py):
 
 Simulates multiple patient monitoring devices.
@@ -51,7 +51,7 @@ Power BI Integration:
 
 The .pbix file connects to the data lake to visualize patient trends over time.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Language: Python 3.14
 
 Containerization: Docker (docker-compose)
@@ -62,27 +62,23 @@ Data Storage: JSON / Flat File (Data Lake pattern)
 
 Version Control: Git & GitHub
 
-⚙️ How to Run
+## ⚙️ How to Run
 1. Prerequisite
 Ensure you have Python and Docker (optional) installed.
 
 2. Run the Pipeline Locally
 You can run the scripts individually to see the data flow:
 
-Bash
-
-# Step 1: Start the simulator (Generates data)
+### Step 1: Start the simulator (Generates data)
 python device_simulator.py
 
-# Step 2: In a new terminal, start the alert system
+### Step 2: In a new terminal, start the alert system
 python alert_system.py
 
-# Step 3: Archive data to the lake
+### Step 3: Archive data to the lake
 python data_archiver.py
 3. Run with Docker (Recommended)
 If you have Docker installed, simply spin up the entire environment:
-
-Bash
 
 docker-compose up --build
 4. View the Dashboard
@@ -90,7 +86,7 @@ Open Medtronic_IOStream_Visual.pbix in Power BI Desktop.
 
 Refresh the dataset to see the latest simulated data points.
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 Cloud Migration: Move med_data_lake to AWS S3.
 
 Streaming: Replace local Python streaming with Apache Kafka.
